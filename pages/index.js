@@ -85,12 +85,12 @@ const  Page = () => {
                 Afgestudeerd in 2017 aan Sint-Bavo Humaniora, Wetenschappen-Moderne Talen. 
             </BioSection>
             <BioSection>
-                <BioYear>2018</BioYear>
-                Completed the preparatory year of Dutch in the university of Gent.
+                <BioYear>2017-2020</BioYear>
+                Rechten aan de UGENT
             </BioSection>
             <BioSection>
-                <BioYear>Now </BioYear>
-                Bachelor student in computer science at Hogent. 
+                <BioYear>2020-2022</BioYear>
+                Student Toegepaste informatica
             </BioSection>
         </Section>
 
@@ -99,75 +99,16 @@ const  Page = () => {
                 Work Experience
             </Heading>
             <BioSection>
-                <BioYear>Foodipro </BioYear><CompanyDetails>Agadir, Morocco -  March 2017 - June 2018</CompanyDetails>
-                <WorkDetails>Programmer</WorkDetails>
+                <BioYear>Minigolf </BioYear><CompanyDetails>Middelkerke, België -  March 2017 - June 2019</CompanyDetails>
+                <WorkDetails>zaal medewerker en</WorkDetails>
             </BioSection>
-            <WorkTasks>
-            <UnorderedList>
-                    <ListItem>
-                        Managed the company's internal network and worked on the creation of a managment solution written
-                        with PHP, mySQL, and bootstrap.
-                    </ListItem>
-                    <ListItem>
-                        Ensured and improved user authentification and data security.
-                    </ListItem>
-                    <ListItem>
-                        Was responsible to help my collegues troubleshouting their IT related issues
-                    </ListItem>
-                    <ListItem>
-                        Was responsible for for designing banners, flayers, contact cards , digital posts and advertisments and
-                        video content creation using Adobe photoshop, illustrator and premiere.
-                    </ListItem>
-                </UnorderedList>
-                </WorkTasks>
             <Divider/>
 
             <BioSection>
-                <BioYear>ProBuns's </BioYear><CompanyDetails>Agadir, Morocco -  July 2016 - December 2016</CompanyDetails>
-                <WorkDetails>Programmer / IT helpdesk</WorkDetails>
+                <BioYear>Daisy's Corner </BioYear><CompanyDetails>Middelkerke , België -  July 2019 -  September 2021</CompanyDetails>
+                <WorkDetails>Vakantiejob Horeca </WorkDetails>
             </BioSection>
-            <WorkTasks>
-            <UnorderedList>
-                    <ListItem>
-                    Creation of a software that manages daily income and uses data to show it in graphes, Helped the
-                    accountant to do 30% less and faster work, written in VBA.
-                    </ListItem>
-                    <ListItem>
-                    Installing and configuring computer hardware, software, systems, networks, printers and scanners.
-                    Monitoring and maintaining computer systems and networks.
-                    </ListItem>
-                    <ListItem>
-                    Creating delivery vehicle wrapping designs.
-                    </ListItem>
-                    <ListItem>
-                    created probuns.ma website using wordpress.
-                    </ListItem>
-                </UnorderedList>
-                </WorkTasks>
-            <Divider/>
-            <BioSection>
-                <BioYear>Vala Orange</BioYear><CompanyDetails>Agadir, Morocco -  June 2014 - August 2014</CompanyDetails>
-                <WorkDetails>Internship</WorkDetails>
-            </BioSection>
-            <WorkTasks>
-            <UnorderedList>
-                    <ListItem>
-                        Worked on an algorithm that improved text correction and detects spam data in the database
-                    </ListItem>
-                </UnorderedList>
-                </WorkTasks>
-            <Divider/>
-            <BioSection>
-                <BioYear>Net Impression</BioYear><CompanyDetails>Agadir, Morocco -  June 2014 - August 2014</CompanyDetails>
-                <WorkDetails>Internship</WorkDetails>
-            </BioSection>
-            <WorkTasks>
-            <UnorderedList>
-                    <ListItem>
-                        Helped the design team working on client tickets
-                    </ListItem>
-                </UnorderedList>
-                </WorkTasks>
+            
             <Divider/>
      
         </Section>
