@@ -78,14 +78,14 @@ const  Page = () => {
             </Heading>
             <BioSection>
                 <BioYear>1995</BioYear>
-                Born in Tizi, Morocco.
+                Geboren in Gent, België.
             </BioSection>
             <BioSection>
-                <BioYear>2015</BioYear>
-                Graduated of École de Technologie d'Agadir, Computer Engineering. 
+                <BioYear>2012-2017</BioYear>
+                Afgestudeerd in 2017 aan Sint-Bavo Humaniora, Wetenschappen-Moderne Talen. 
             </BioSection>
             <BioSection>
-                <BioYear>2019</BioYear>
+                <BioYear>2018</BioYear>
                 Completed the preparatory year of Dutch in the university of Gent.
             </BioSection>
             <BioSection>
